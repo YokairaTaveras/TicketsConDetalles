@@ -22,5 +22,9 @@
     <ProjectReference Include="..\Shared\TicketsConDetalles.Shared.csproj" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Folder Include="Data\" />
+  </ItemGroup>
+
 
 </Project>
