@@ -1,5 +1,6 @@
 ﻿using Microsoft.EntityFrameworkCore;
-using System.Collections.Generic;
+using TicketsConDetalles.Shared.Models;
+
 
 namespace TicketsConDetalles.Server.DAL
 {
